@@ -1,0 +1,82 @@
+{
+    "user@example.com": {
+        "password": "$2b$12$....",
+        "budget": 10000,
+        "portfolio": {
+            "USD": 0.0,
+            "EUR": 0.0,
+            "ALTIN": 0.0,
+            "BTC": 0.0
+        }
+    },
+    "selin": {
+        "password": "$2b$12$0UuDRmqolia4X4kvZNuYHOrDCdWolANb9DYGwdxX/wNxrOWOvkf4C",
+        "budget": 5562.0,
+        "portfolio": {
+            "USD": 140.0,
+            "EUR": 0.0,
+            "ALTIN": 0.0,
+            "BTC": 0.0
+        }
+    },
+    "sevde": {
+        "password": "$2b$12$B8v.nFelUHOHuIkCQ0iUiuMSCjI9fixHSIprvUsw1fBWqQIh1SrRS",
+        "budget": 7607.450000000001,
+        "portfolio": {
+            "USD": 0.0,
+            "EUR": 0.0,
+            "ALTIN": 1.0,
+            "BTC": 0.0
+        }
+    },
+    "ceylin": {
+        "password": "$2b$12$C3CywEOuvLOnNPtqfPn6VOIDcFdrtwKBAoMkwi0al5RX9yDvsvS/m",
+        "budget": 10000.0,
+        "portfolio": {
+            "USD": 0.0,
+            "EUR": 0.0,
+            "ALTIN": 0.0,
+            "BTC": 0.0
+        }
+    },
+    "eylem g\u00fcney": {
+        "password": "$2b$12$19Kl.7LkKoox2gfUiIw3SOR1/cBJX4pXunaHHWQll3YlIebx/I0Ue",
+        "budget": 10000.0,
+        "portfolio": {
+            "USD": 0.0,
+            "EUR": 0.0,
+            "ALTIN": 0.0,
+            "BTC": 0.0
+        }
+    },
+    "burak030": {
+        "password": "$2b$12$SS4rLs8Uduj5elPR9rR/je3/yBkq./ipSTUyvPEJCdR1RZ.hxJh/C",
+        "budget": 10000.0,
+        "portfolio": {
+            "USD": 0.0,
+            "EUR": 0.0,
+            "ALTIN": 0.0,
+            "BTC": 0.0
+        }
+    },
+    "tugba": {
+        "password": "$2b$12$PywgEI2AityueOjt1Q3Uuue./guiYBPvnJ.3zJ1N0iB5kQe8F0P/6",
+        "budget": 10000.0,
+        "portfolio": {
+            "USD": 0.0,
+            "EUR": 0.0,
+            "ALTIN": 0.0,
+            "BTC": 0.0
+        }
+    },
+    "furkan_atlan": {
+        "password": "$2b$12$PRzTxBSnw/HcsQhfu6L9e.LHexl93XAzp6Q3epfvGIaaMKW6nHpcS",
+        "budget": 7610.0,
+        "portfolio": {
+            "USD": 0.0,
+            "EUR": 0.0,
+            "ALTIN": 1.0,
+            "BTC": 0.0
+        }
+    }
+}
